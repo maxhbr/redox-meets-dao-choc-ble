@@ -1,0 +1,9 @@
+[submodule "dao-choc-ble"]
+	path = dao-choc-ble
+	url = https://github.com/yumagulovrn/dao-choc-ble
+[submodule "redox-keyboard"]
+	path = redox-keyboard
+	url = https://github.com/mattdibi/redox-keyboard
+[submodule "kyria"]
+	path = kyria
+	url = https://github.com/splitkb/kyria
