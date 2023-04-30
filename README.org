@@ -1,0 +1,13 @@
+* redox meets dao-choc-ble and friends
+
+** Idea:
+Mix the best parts from nice keyboards
+- The electronics from dao-choc-ble
+  The [[https://raw.githubusercontent.com/yumagulovrn/dao-choc-ble/][yumagulovrn/dao-choc-ble]] (which itself took inspiration from the electrical circuit of [[https://github.com/MangoIV/le_chiff_ble][MangoIV/le_chiff_ble]]) uses the MINEW MS88SF2 BLE module.
+- The number of Keys from Redox
+- The pinky stagger from the Kyria
+
+** Plan:
+- Use [[https://zmk.dev/][ZMK]]
+- Use KiCad
+- ...
